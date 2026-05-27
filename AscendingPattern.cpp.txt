@@ -3,14 +3,14 @@ using namespace std;
 int main()
 {
   int i,n,j;
-cinn;
+cin<<n;
 for( i=1;i=n;i++)
 {
 for( j=1;j=i;j++)
 {
- coutj;
+ cout<<j;
 }
-coutendl;
+cout<<endl;
 }
 return 0;
 }  
