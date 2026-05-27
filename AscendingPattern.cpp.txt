@@ -1,0 +1,16 @@
+#includeiostream
+using namespace std;
+int main()
+{
+  int i,n,j;
+cinn;
+for( i=1;i=n;i++)
+{
+for( j=1;j=i;j++)
+{
+ coutj;
+}
+coutendl;
+}
+return 0;
+}  
