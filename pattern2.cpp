@@ -7,7 +7,7 @@ int main()
     {
         for(int j=0;j<5;j++)
         {
-            cout<<"*"; //d;fks;ofks;fk
+            cout<<"*"; //d;fks;ofks;fkgit
 
         } cout<<endl;
     }
