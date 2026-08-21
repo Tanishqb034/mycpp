@@ -9,5 +9,6 @@ int main() {
     std::reverse(text.begin(), text.end());
     
     std::cout << text; // Output: olleh
+     std::cout<<text;
     return 0;
 }
