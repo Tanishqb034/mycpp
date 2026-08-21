@@ -10,5 +10,6 @@ int main() {
     
     std::cout << text; // Output: olleh
      std::cout<<text;
+     std::cout<<text;
     return 0;
 }
