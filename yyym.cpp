@@ -33,5 +33,8 @@ int main()
     int x = 3;
     int r = binarySearch(arr, x, n);
     cout << r; // Output: 2
+    cout<<x;   
     return 0;
+
 }
+    
